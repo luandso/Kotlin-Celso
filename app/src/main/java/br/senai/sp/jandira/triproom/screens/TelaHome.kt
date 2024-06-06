@@ -104,7 +104,7 @@ fun TelaHome(controleDeNavegacao: NavHostController?) {
                                 .size(width = 70.dp, height = 70.dp)
                         )
                         Text(
-                            text = "Susanna Hoffs",
+                            text = "Luan Oliveira",
                             color = Color.White,
                             fontFamily = PoppinsRegular,
                             modifier = Modifier
